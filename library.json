@@ -1,8 +1,11 @@
 {
   "name": "PubSubServer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy to use MQTT library for embedded devices",
-  "keywords": "timing",
+  "keywords": "MQTT",
+  "dependencies": {
+    "knolleary/PubSubClient": "2.8"
+  },
   "repository":
   {
     "type": "git",
