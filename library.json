@@ -1,0 +1,22 @@
+{
+  "name": "PubSubServer",
+  "version": "1.0.0",
+  "description": "Easy to use MQTT library for embedded devices",
+  "keywords": "timing",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MyrtIO/pubsubserver.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Mikhael Khrustik",
+      "email": "misha@myrt.co",
+      "url": "https://myrt.co"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "Arduino",
+  "platforms": "*"
+}
